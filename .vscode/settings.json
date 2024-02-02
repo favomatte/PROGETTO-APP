@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "Bozze.C": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
